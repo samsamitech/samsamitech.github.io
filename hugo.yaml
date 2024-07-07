@@ -40,6 +40,6 @@ menu:
       url: /about/
       weight: 30
     - identifier: contact
-      name: contact
+      name: Contact
       url: /contact/
       weight: 30
