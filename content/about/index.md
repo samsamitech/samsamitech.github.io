@@ -5,6 +5,7 @@ cover:
   image: "images/norway.jpg"
   alt: "Norway"
   caption: "Image by: ELG21 from pixabay.com"
+  relative: true
 ---
 
 Hi there! I'm Hamed Samsami, a Hydroinformatics Engineer based in the beautiful landscapes of Norway. With over 15 years of experience as a civil engineer, my journey has been deeply rooted in the design and construction of water infrastructure. But my story isn't just about concrete and pipes—it's also about code, algorithms, and the magic that happens when technology meets water.
