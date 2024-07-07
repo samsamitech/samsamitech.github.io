@@ -2,3 +2,44 @@ baseURL: https://hydrohamed.com/
 languageCode: en-us
 title: HydroHamed
 theme: ["PaperMod"]
+
+params:
+  homeInfoParams:
+    imageUrl: "images/avatar.png" # optional
+    imageTitle: "Hamed Samsami" # optional
+    imageWidth: 200 # custom size
+    imageHeight: 200 # custom size
+    Title: Hi! I'm Hamed.
+    Subtitle: A Hydroinformatics Engineer.
+    Content: I'm a hydroinformatics enthusiast in Norway with 15+ years in hydraulic infrastructure design and construction. I sit at the intersection of water, data, AI, and programming, building open-source projects and writing about water, code, life, and more. Welcome to my digital garden. 🌱
+
+  socialIcons:
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/hydrohamed/"
+    - name: "github"
+      url: "https://github.com/hydrohamed"
+    - name: "x"
+      url: "https://x.com/hydrohamed"
+    - name: "youtube"
+      url: "https://youtube.com/hydrohamed"
+    - name: "email"
+      url: ":mailto:hydrohamed@gmail.com"
+
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 20
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 30
+    - identifier: contact
+      name: contact
+      url: /contact/
+      weight: 30

@@ -1,0 +1,8 @@
+.home-info img {
+    border-radius: 50%;
+    border: 3px solid #04a5bb
+}
+
+.entry-header{
+    display: flex !important;
+  }
