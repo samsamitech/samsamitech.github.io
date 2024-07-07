@@ -1,4 +1,4 @@
-baseURL: https://hydrohamed.com/
+baseURL: https://www.hydrohamed.com/
 languageCode: en-us
 title: HydroHamed
 theme: ["PaperMod"]
@@ -23,7 +23,7 @@ params:
     - name: "youtube"
       url: "https://youtube.com/hydrohamed"
     - name: "email"
-      url: ":mailto:hydrohamed@gmail.com"
+      url: "mailto:hydrohamed@gmail.com"
 
 menu:
   main:
