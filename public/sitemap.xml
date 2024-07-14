@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://www.hydrohamed.com/about/</loc>
     <lastmod>2024-07-08T09:49:11+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://www.hydrohamed.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://www.hydrohamed.com/contact/</loc>
     <lastmod>2024-07-08T11:13:21+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.hydrohamed.com/</loc>
     <lastmod>2024-07-08T11:13:21+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://www.hydrohamed.com/projects/</loc>
     <lastmod>2024-07-08T11:13:21+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://www.hydrohamed.com/tags/</loc>
   </url>
 </urlset>
