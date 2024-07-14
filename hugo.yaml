@@ -3,6 +3,7 @@ languageCode: en-us
 title: HydroHamed
 theme: ["PaperMod"]
 enableGitInfo: true
+googleAnalytics: G-NVRBBK4BQP
 
 params:
   homeInfoParams:
@@ -28,9 +29,6 @@ params:
 
   ShowReadingTime: true
   ShowShareButtons: true
-  analytics:
-    google:
-      SiteVerificationTag: "G-NVRBBK4BQP"
 
 menu:
   main:
