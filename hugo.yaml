@@ -1,17 +1,22 @@
 baseURL: https://www.hydrohamed.com/
-languageCode: en-us
 title: HydroHamed
+languageCode: en-us
+paginate: 10
 theme: ["PaperMod"]
 
 enableRobotsTXT: true
 enableGitInfo: true
+enableEmoji: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
 googleAnalytics: G-NVRBBK4BQP
 
-minify:
-  disableXML: true
-  minifyOutput: true
+mainsections: ["articles", "notes"]
 
 params:
+  env: production
   homeInfoParams:
     Title: Hi! I'm Hamed.
     Subtitle: A Hydroinformatics Engineer.
@@ -38,13 +43,12 @@ params:
     - name: "email"
       url: "mailto:hydrohamed@gmail.com"
 
-  ShowReadingTime: true
-  ShowShareButtons: true
-
   editPost:
     URL: "https://github.com/hydrohamed/hydrohamed.github.io/blob/main/content"
     Text: "Suggest Changes"
     appendFilePath: true
+
+  ShowShareButtons: true
 
 menu:
   main:

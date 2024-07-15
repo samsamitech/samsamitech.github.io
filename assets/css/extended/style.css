@@ -6,3 +6,19 @@
 .entry-header{
     display: flex !important;
   }
+
+  .post-content h2 {
+    font-size: 24px;
+  }
+
+  .post-content h3 {
+    font-size: 18px;
+  }
+
+  .post-content h4 {
+    font-size: 15px;
+  }
+
+  .post-content li {
+    list-style-type: circle;
+}
