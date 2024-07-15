@@ -3,7 +3,7 @@ title: "Hydroinformatics Engineer Roadmap"
 summary: This roadmap outlines the essential study topics and skills needed to work as a hydroinformatics engineer.
 author: ["Hamed Samsami"]
 date: 2024-07-15
-tags: ["HydroInformatics", "Roadmap"]
+tags: ["HydroInformatics", "Roadmap", "Career Path"]
 weight: 2
 cover:
   image: "images/cover.jpg"

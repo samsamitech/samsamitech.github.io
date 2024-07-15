@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>HydroInformatics on HydroHamed</title>
-    <link>https://www.hydrohamed.com/tags/hydroinformatics/</link>
+    <link>http://localhost:1313/tags/hydroinformatics/</link>
     <description>Recent content in HydroInformatics on HydroHamed</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Jul 2024 22:52:33 +0200</lastBuildDate>
-    <atom:link href="https://www.hydrohamed.com/tags/hydroinformatics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hydroinformatics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is Hydroinformatics? Bridging Water Science and Technology</title>
-      <link>https://www.hydrohamed.com/articles/hydroinformatics/</link>
+      <link>http://localhost:1313/articles/hydroinformatics/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.hydrohamed.com/articles/hydroinformatics/</guid>
+      <guid>http://localhost:1313/articles/hydroinformatics/</guid>
       <description>This article delves into the multifaceted world of hydroinformatics, exploring its history, applications, job market, and future prospects.</description>
     </item>
     <item>
       <title>Hydroinformatics Engineer Roadmap</title>
-      <link>https://www.hydrohamed.com/articles/hydroinformatics-roadmap/</link>
+      <link>http://localhost:1313/articles/hydroinformatics-roadmap/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.hydrohamed.com/articles/hydroinformatics-roadmap/</guid>
+      <guid>http://localhost:1313/articles/hydroinformatics-roadmap/</guid>
       <description>This roadmap outlines the essential study topics and skills needed to work as a hydroinformatics engineer.</description>
     </item>
   </channel>
