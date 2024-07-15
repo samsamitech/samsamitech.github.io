@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.hydrohamed.com/sitemap.xml

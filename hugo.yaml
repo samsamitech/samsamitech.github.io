@@ -2,18 +2,29 @@ baseURL: https://www.hydrohamed.com/
 languageCode: en-us
 title: HydroHamed
 theme: ["PaperMod"]
+
+enableRobotsTXT: true
 enableGitInfo: true
 googleAnalytics: G-NVRBBK4BQP
+
+minify:
+  disableXML: true
+  minifyOutput: true
 
 params:
   homeInfoParams:
     Title: Hi! I'm Hamed.
     Subtitle: A Hydroinformatics Engineer.
-    Content: I'm a hydroinformatics enthusiast in Norway with 15+ years in hydraulic infrastructure design and construction. I sit at the intersection of water, data, AI, and programming, building open-source projects and writing about water, code, life, and more. Welcome to my digital garden. 🌱
+    Content: I'm a hydroinformatics enthusiast in Norway with 15+ years in water infrastructure design and construction. I sit at the intersection of water, data, AI, and programming, building open-source projects and writing about water, code, life, and more. Welcome to my digital garden. 🌱
     imageUrl: "images/avatar.png"
     imageTitle: "Hamed Samsami"
     imageWidth: 200
     imageHeight: 200
+    buttons:
+      - name: Archive
+        url: "/archive"
+      - name: Github
+        url: "https://github.com/"
 
   socialIcons:
     - name: "linkedin"
@@ -30,11 +41,16 @@ params:
   ShowReadingTime: true
   ShowShareButtons: true
 
+  editPost:
+    URL: "https://github.com/hydrohamed/hydrohamed.github.io/blob/main/content"
+    Text: "Suggest Changes"
+    appendFilePath: true
+
 menu:
   main:
-    - identifier: blog
-      name: Blog
-      url: /blog/
+    - identifier: articles
+      name: Articles
+      url: /articles/
       weight: 10
     - identifier: projects
       name: Projects
@@ -47,4 +63,8 @@ menu:
     - identifier: contact
       name: Contact
       url: /contact/
-      weight: 30
+      weight: 40
+    - identifier: flood_events_database
+      name: Flood Events Database
+      url: https://fed.hydrohamed.com/
+      weight: 50
