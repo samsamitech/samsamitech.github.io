@@ -23,8 +23,8 @@ params:
     Content: I'm a hydroinformatics enthusiast in Norway with 15+ years in water infrastructure design and construction. I sit at the intersection of water, data, AI, and programming, building open-source projects and writing about water, code, life, and more. Welcome to my digital garden. 🌱
     imageUrl: "images/avatar.png"
     imageTitle: "Hamed Samsami"
-    imageWidth: 200
-    imageHeight: 200
+    imageWidth: 160
+    imageHeight: 160
     buttons:
       - name: Archive
         url: "/archive"

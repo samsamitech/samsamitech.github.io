@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>HydroHamed</title>
-    <link>https://www.hydrohamed.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on HydroHamed</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.hydrohamed.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jul 2024 19:50:44 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is Hydroinformatics? Bridging Water Science and Technology</title>
-      <link>https://www.hydrohamed.com/articles/hydroinformatics/</link>
+      <link>http://localhost:1313/articles/hydroinformatics/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.hydrohamed.com/articles/hydroinformatics/</guid>
+      <guid>http://localhost:1313/articles/hydroinformatics/</guid>
       <description>This article delves into the multifaceted world of hydroinformatics, exploring its history, applications, job market, and future prospects.</description>
     </item>
     <item>
       <title>Hydroinformatics Engineer Roadmap</title>
-      <link>https://www.hydrohamed.com/articles/hydroinformatics-roadmap/</link>
+      <link>http://localhost:1313/articles/hydroinformatics-roadmap/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.hydrohamed.com/articles/hydroinformatics-roadmap/</guid>
+      <guid>http://localhost:1313/articles/hydroinformatics-roadmap/</guid>
       <description>This roadmap outlines the essential study topics and skills needed to work as a hydroinformatics engineer.</description>
     </item>
     <item>
       <title>About me</title>
-      <link>https://www.hydrohamed.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.hydrohamed.com/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Hi there! I&amp;rsquo;m Hamed Samsami, a Hydroinformatics Engineer based in the beautiful landscapes of Norway. With over 15 years of experience as a civil engineer, my journey has been deeply rooted in the design and construction of water infrastructure. But my story isn&amp;rsquo;t just about concrete and pipes—it&amp;rsquo;s also about code, algorithms, and the magic that happens when technology meets water.
 The Early Days Ever since I was a teenager, I&amp;rsquo;ve been fascinated by programming.</description>
     </item>
     <item>
       <title>Get in Touch</title>
-      <link>https://www.hydrohamed.com/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.hydrohamed.com/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>Hello there! I&amp;rsquo;m thrilled that you&amp;rsquo;re interested in reaching out. Whether you have a question, a project idea, or just want to chat about the fascinating world of hydroinformatics, I&amp;rsquo;m all ears. Let&amp;rsquo;s make a splash together!
 Reach Me Here Feel free to drop me a message using any of the contact methods below. I promise to get back to you as soon as I can.
 Email: 📧 hydrohamed@gmail.com
@@ -42,9 +42,9 @@ LinkedIn: 🔗 Connect with me on LinkedIn</description>
     </item>
     <item>
       <title>My Projects</title>
-      <link>https://www.hydrohamed.com/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.hydrohamed.com/projects/</guid>
+      <guid>http://localhost:1313/projects/</guid>
       <description>Welcome to my projects page! Here you&amp;rsquo;ll find a diverse collection of innovative initiatives that blend my passion for hydroinformatics, programming, and open-source development. Each project is a reflection of my commitment to leveraging technology for solving real-world challenges in the water industry and beyond. Dive in and explore!
 HydroHamed A Digital Garden for Hydroinformatics Enthusiasts
 HydroHamed is my digital garden—a dynamic and evolving hub designed for hydroinformatics enthusiasts, engineers, researchers, and scientists.</description>
