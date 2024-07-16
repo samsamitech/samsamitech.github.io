@@ -5,8 +5,6 @@ author: ["Hamed Samsami"]
 date: 2024-07-15
 tags: ["HydroInformatics", "Roadmap", "Career Path"]
 weight: 2
-cover:
-  image: "images/cover.jpg"
 ---
 
 ## Introduction

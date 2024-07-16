@@ -16,20 +16,12 @@ googleAnalytics: G-NVRBBK4BQP
 mainsections: ["articles", "notes"]
 
 params:
-  env: production
   homeInfoParams:
-    Title: Hi! I'm Hamed.
-    Subtitle: A Hydroinformatics Engineer.
-    Content: I'm a hydroinformatics enthusiast in Norway with 15+ years in water infrastructure design and construction. I sit at the intersection of water, data, AI, and programming, building open-source projects and writing about water, code, life, and more. Welcome to my digital garden. 🌱
+    Title: Hamed Samsami
+    Subtitle: Hydroinformatics Engineer
+    Content: Welcome to my digital garden. 🌱 As a hydroinformatics engineer, I merge water science with data-driven innovation. Here, I share my learnings, projects, and insights on water, data, and occasionally, the flow of life.
     imageUrl: "images/avatar.png"
     imageTitle: "Hamed Samsami"
-    imageWidth: 160
-    imageHeight: 160
-    buttons:
-      - name: Archive
-        url: "/archive"
-      - name: Github
-        url: "https://github.com/"
 
   socialIcons:
     - name: "linkedin"
@@ -38,8 +30,6 @@ params:
       url: "https://github.com/hydrohamed"
     - name: "x"
       url: "https://x.com/hydrohamed"
-    - name: "youtube"
-      url: "https://youtube.com/hydrohamed"
     - name: "email"
       url: "mailto:hydrohamed@gmail.com"
 
