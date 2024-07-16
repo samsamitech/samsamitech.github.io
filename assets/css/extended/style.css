@@ -1,5 +1,4 @@
 :root {
-  --primary: rgb(40, 40, 40);
   --theme: rgb(247, 247, 247);
   --code-bg: rgb(247, 247, 247);
 }
@@ -9,12 +8,26 @@
   border: 3px solid #04a5bb;
 }
 
+#menu-container {
+  display: flex;
+}
+
 .entry-header {
   display: flex !important;
 }
 
 .first-entry {
   margin: var(--gap) 0;
+}
+
+.buttons,
+.main .profile {
+  justify-content: left;
+}
+
+a[title="Hire Me"] {
+  background-color: #04a5bb;
+  color: #fff;
 }
 
 .post-content h2 {

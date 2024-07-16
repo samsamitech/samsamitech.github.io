@@ -11,7 +11,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 <link rel="canonical" href="http://localhost:1313/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.c322fa0d6c0c949e85ba1764e2cae81f173c406bbdd16f63bc81ad25b9344f8a.css" integrity="sha256-wyL6DWwMlJ6Fuhdk4sroHxc8QGu90W9jvIGtJbk0T4o=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.ba9bcebc0cb193b3a421fd5699ddc32e0478f9a72a58c54beea8cb101144cbec.css" integrity="sha256-upvOvAyxk7OkIf1Wmd3DLgR4&#43;acqWMVL7qjLEBFEy&#43;w=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
@@ -76,29 +76,8 @@
     <nav class="nav">
         <div class="logo">
             <a href="http://localhost:1313/" accesskey="h" title="HydroHamed (Alt + H)">HydroHamed</a>
-            <div class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
-                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-                    </svg>
-                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <circle cx="12" cy="12" r="5"></circle>
-                        <line x1="12" y1="1" x2="12" y2="3"></line>
-                        <line x1="12" y1="21" x2="12" y2="23"></line>
-                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                        <line x1="1" y1="12" x2="3" y2="12"></line>
-                        <line x1="21" y1="12" x2="23" y2="12"></line>
-                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                    </svg>
-                </button>
-            </div>
         </div>
+        <div id="menu-container">
         <ul id="menu">
             <li>
                 <a href="http://localhost:1313/articles/" title="Articles">
@@ -120,18 +99,30 @@
                     <span>Contact</span>
                 </a>
             </li>
-            <li>
-                <a href="https://fed.hydrohamed.com/" title="Flood Events Database">
-                    <span>Flood Events Database</span>&nbsp;
-                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
-                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
-                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
-                        <path d="M15 3h6v6"></path>
-                        <path d="M10 14L21 3"></path>
-                    </svg>
-                </a>
-            </li>
         </ul>
+        <div class="logo-switches">
+            <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                    stroke-linejoin="round">
+                    <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                </svg>
+                <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                    stroke-linejoin="round">
+                    <circle cx="12" cy="12" r="5"></circle>
+                    <line x1="12" y1="1" x2="12" y2="3"></line>
+                    <line x1="12" y1="21" x2="12" y2="23"></line>
+                    <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                    <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                    <line x1="1" y1="12" x2="3" y2="12"></line>
+                    <line x1="21" y1="12" x2="23" y2="12"></line>
+                    <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                    <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                </svg>
+            </button>
+        </div>
+    </div>
     </nav>
 </header>
 <main class="main"> 
@@ -141,7 +132,7 @@
             <h1>Hamed Samsami</h1>
             <h2>Hydroinformatics Engineer</h2>
             <div class="entry-content">
-                Welcome to my digital garden. 🌱 As a hydroinformatics engineer, I merge water science with data-driven innovation. Here, I share my learnings, projects, and insights on water, data, and occasionally, the flow of life.
+                Welcome to my digital garden! 🌱 As a hydroinformatics engineer, I merge water science with technology. Here, I share my knowledge, projects, and thoughts about water, data, code, tech, and occasionally, the flow of life.
             </div>
         </div>
             <img draggable="false" src="http://localhost:1313/images/avatar.png" alt="Hamed Samsami" title="Hamed Samsami"
@@ -186,6 +177,30 @@
 </div>
 
     </footer>
+    <div class="buttons">
+        <a class="button" href="https://www.fiverr.com/hydrohamed/" rel="noopener" title="Hire Me">
+            <span class="button-inner">
+                Hire Me&nbsp;
+                <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                    stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="14" width="14">
+                    <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                    <path d="M15 3h6v6"></path>
+                    <path d="M10 14L21 3"></path>
+                </svg>
+            </span>
+        </a>
+        <a class="button" href="https://fed.hydrohamed.com/" rel="noopener" title="Flood Events Database">
+            <span class="button-inner">
+                Flood Events Database&nbsp;
+                <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                    stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="14" width="14">
+                    <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                    <path d="M15 3h6v6"></path>
+                    <path d="M10 14L21 3"></path>
+                </svg>
+            </span>
+        </a>
+    </div>
 </article>
 
 <article class="post-entry"> 

@@ -19,9 +19,14 @@ params:
   homeInfoParams:
     Title: Hamed Samsami
     Subtitle: Hydroinformatics Engineer
-    Content: Welcome to my digital garden. 🌱 As a hydroinformatics engineer, I merge water science with data-driven innovation. Here, I share my learnings, projects, and insights on water, data, and occasionally, the flow of life.
+    Content: Welcome to my digital garden! 🌱 As a hydroinformatics engineer, I merge water science with technology. Here, I share my knowledge, projects, and thoughts about water, data, code, tech, and occasionally, the flow of life.
     imageUrl: "images/avatar.png"
     imageTitle: "Hamed Samsami"
+    buttons:
+      - name: Hire Me
+        url: https://www.fiverr.com/hydrohamed/
+      - name: Flood Events Database
+        url: https://fed.hydrohamed.com/
 
   socialIcons:
     - name: "linkedin"
@@ -58,7 +63,3 @@ menu:
       name: Contact
       url: /contact/
       weight: 40
-    - identifier: flood_events_database
-      name: Flood Events Database
-      url: https://fed.hydrohamed.com/
-      weight: 50
