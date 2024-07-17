@@ -1,11 +1,11 @@
 :root {
-  --theme: rgb(247, 247, 247);
-  --code-bg: rgb(247, 247, 247);
+  --theme: rgb(250, 250, 250);
+  --code-bg: rgb(250, 250, 250);
 }
 
 .home-info img {
   border-radius: 50%;
-  border: 3px solid #04a5bb;
+  border: 3px solid #05bdd5;
 }
 
 #menu-container {
@@ -26,7 +26,7 @@
 }
 
 a[title="Hire Me"] {
-  background-color: #04a5bb;
+  background-color: #05bdd5;
   color: #fff;
 }
 

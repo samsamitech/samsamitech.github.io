@@ -44,9 +44,6 @@
     <loc>http://localhost:1313/tags/water/</loc>
     <lastmod>2024-07-16T02:19:08+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2024-07-08T09:49:11+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
@@ -54,5 +51,8 @@
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-07-16T02:19:08+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2024-07-08T09:49:11+02:00</lastmod>
   </url>
 </urlset>

@@ -3,7 +3,7 @@ title: "Get in Touch"
 draft: false
 ---
 
-Hello there! I'm thrilled that you're interested in reaching out. Whether you have a question, a project idea, or just want to chat about the fascinating world of hydroinformatics, I'm all ears. Let's make a splash together!
+Hello there! Whether you have a question, a project idea, or just want to chat about the fascinating world of hydroinformatics, I'm all ears.
 
 ## Reach Me Here
 
@@ -13,13 +13,13 @@ Email:
 📧 hydrohamed@gmail.com
 
 LinkedIn:
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/hydrohamed/)
+💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/hydrohamed/)
 
 ## Visit My Digital Garden
 
 Curious about what I'm currently working on? Want to dive deeper into the world of hydroinformatics and AI? My digital garden is always open for visitors. Explore, learn, and feel free to leave your thoughts!
 
-🌐 [Explore My Digital Garden](https://hydrohamed.com/)
+🌱 [Explore My Digital Garden](https://hydrohamed.com/)
 
 ## Let's Collaborate
 
@@ -32,7 +32,7 @@ Project Inquiries:
 
 Stay updated with my latest projects, thoughts, and adventures in the world of water and tech. Follow me on social media and be part of the journey.
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/hydrohamed/)
+💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/hydrohamed/)
 
 🐙 [Check out my GitHub](https://www.github.com/hydrohamed/)
 

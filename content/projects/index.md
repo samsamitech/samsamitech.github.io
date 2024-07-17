@@ -1,25 +1,23 @@
 ---
 title: "My Projects"
-draft: false
+Author: "Hamed Samsami"
 ---
 
-Welcome to my projects page! Here you'll find a diverse collection of innovative initiatives that blend my passion for hydroinformatics, programming, and open-source development. Each project is a reflection of my commitment to leveraging technology for solving real-world challenges in the water industry and beyond. Dive in and explore!
+Welcome to my projects page! Here you'll find different projects I've worked on. They mix my love for water science, computer programming, and free software.
 
 ## HydroHamed
 
-**A Digital Garden for Hydroinformatics Enthusiasts**
+**A Hub for Hydroinformatics Enthusiasts**
 
-HydroHamed is my digital garden—a dynamic and evolving hub designed for hydroinformatics enthusiasts, engineers, researchers, and scientists. This platform serves as a rich repository of insights, tutorials, and discussions around the intersection of water systems and technology. Whether you're looking to deepen your understanding of hydraulic modeling, explore the latest AI applications in water management, or simply connect with like-minded individuals, HydroHamed is your go-to resource.
+HydroHamed is my online space for sharing knowledge about water science and technology. It's for engineers, researchers, scientists, and anyone interested in this field. You can find helpful information, guides, and discussions here.
 
 🔗 [Explore HydroHamed](https://www.hydrohamed.com)
 
 ## Flood Events Database
 
-**Comprehensive Global Flood Data at Your Fingertips**
+**A Citizen Science Project for Gathering Flood Events Data**
 
-Growing up fascinated by the power and unpredictability of water, I became a dedicated hydroinformatics enthusiast, delving deeply into the study of flood events and their impacts. With years of experience under my belt, I recognized a significant gap: there was no comprehensive, publicly accessible global resource for flood data. This lack of information affected not only the general public but also engineers, scientists, researchers, and decision-makers who needed reliable data to make informed choices.
-
-Determined to bridge this gap, I embarked on a mission to create a solution. Thus, the Flood Events Database was born—a free, open-source web application designed to provide users with real-time, detailed information on flood events from around the world. With this tool, we can better understand flood patterns, prepare for future events, and ultimately save lives.
+I've always been interested in studying floods and how they affect people. I noticed there wasn't a good place to find flood information from around the world. So, I created the Flood Events Database. It's a free website where anyone can find and share information about floods. This helps people understand floods better and be more prepared.
 
 🔗 [Access the Flood Events Database](https://fed.hydrohamed.com)
 
@@ -35,10 +33,10 @@ Libredraft is a free, open-source, and lightweight tool for designing 2D CAD pro
 
 **Powerful Download Manager and Accelerator**
 
-Meet Hiro—a powerful, fast, and lightweight download manager and accelerator written in Go!
+Meet Hiro, my project for learning the Go programming language. It's a fast, lightweight download manager and accelerator.
 
 🔗 [Download Hiro](https://github.com/hydrohamed/hiro)
 
 ---
 
-Thank you for taking the time to explore my projects. Each one represents a unique blend of my skills and passions, and I hope they inspire you as much as they have driven me. If you have any questions, feedback, or ideas for collaboration, feel free to reach out. Let's innovate together!
+Thank you for taking the time to explore my projects. Each one represents a unique blend of my skills and passions, and I hope they inspire you as much as they have driven me. If you have any questions, feedback, or ideas for collaboration, feel free to reach out.

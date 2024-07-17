@@ -19,12 +19,10 @@ params:
   homeInfoParams:
     Title: Hamed Samsami
     Subtitle: Hydroinformatics Engineer
-    Content: Welcome to my digital garden! 🌱 As a hydroinformatics engineer, I merge water science with technology. Here, I share my knowledge, projects, and thoughts about water, data, code, tech, and occasionally, the flow of life.
+    Content: Welcome to my digital garden! 🌱 As a hydroinformatics engineer, I merge water science with technology. Here, I share my knowledge, learning, projects, and thoughts about water, data, code, tech, and occasionally, the flow of life.
     imageUrl: "images/avatar.png"
     imageTitle: "Hamed Samsami"
     buttons:
-      - name: Hire Me
-        url: https://www.fiverr.com/hydrohamed/
       - name: Flood Events Database
         url: https://fed.hydrohamed.com/
 
@@ -37,11 +35,6 @@ params:
       url: "https://x.com/hydrohamed"
     - name: "email"
       url: "mailto:hydrohamed@gmail.com"
-
-  editPost:
-    URL: "https://github.com/hydrohamed/hydrohamed.github.io/blob/main/content"
-    Text: "Suggest Changes"
-    appendFilePath: true
 
   ShowShareButtons: true
 
@@ -56,10 +49,10 @@ menu:
       url: /projects/
       weight: 20
     - identifier: about
-      name: About
+      name: My Story
       url: /about/
       weight: 30
     - identifier: contact
-      name: Contact
+      name: Let's Connect
       url: /contact/
       weight: 40

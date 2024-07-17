@@ -1,26 +1,62 @@
 ---
-title: "About me"
-draft: false
+title: "My Story"
+author: "Hamed Samsami"
+cover:
+  image: "images/hamed.jpg"
+  alt: "Hamed"
 ---
 
-Hi there! I'm Hamed Samsami, a Hydroinformatics Engineer based in the beautiful landscapes of Norway. With over 15 years of experience as a civil engineer, my journey has been deeply rooted in the design and construction of water infrastructure. But my story isn't just about concrete and pipes—it's also about code, algorithms, and the magic that happens when technology meets water.
+Water has always been a big part of my life, but it was computer programming that truly set me on my path. I'm Hamed Samsami, a Hydroinformatics Engineer from Iran, now living in beautiful Norway. My story is all about merging two passions: water and technology.
 
-## The Early Days
+## How It All Started
 
-Ever since I was a teenager, I've been fascinated by programming. Back then, I would spend hours tinkering with code, exploring how a few lines could create something functional and, sometimes, even beautiful. As I grew older, my love for water systems and structures led me to pursue a master's degree in hydraulic structures engineering. Combining these two passions seemed like a natural path, and that's how I found myself at the intersection of hydraulics and informatics.
+As a teenager, I spent countless late nights at my computer. While my friends were playing video games and chatting on Yahoo, I was learning to write code. I didn't realize it then, but this hobby would eventually shape my entire career.
+
+My interest in computer science never waned. Even while studying civil engineering, I used my spare time to build websites for friends, local schools, and various small projects.
+
+## Bringing Together What I Love
+
+Imagine standing before a massive dam, knowing that your work helps provide water and energy to thousands of people. That's why I chose civil engineering—to build infrastructure that makes lives better. But little did I know, my journey would lead me to bridge two seemingly different worlds.
+
+While doing my master's degree in hydraulic structures engineering, I had an "aha" moment. For my final project, I used Python (a programming language) to create hydraulic models. Suddenly, my two interests - water and programming - came together perfectly.
+
+Over the past 15 years, I've had the privilege of working on incredible infrastructure projects. From the initial sketches to the final brick, I've been there, planning, designing, and overseeing construction.
+
+But throughout this journey, I've always had an eye on the horizon, looking for ways to bring new technologies into our field. I'm the guy who's always experimenting with the latest software, encouraging my colleagues to embrace these tools. In quiet moments between projects, I've even created mini software tools to make our work easier, sharing them with anyone who's interested.
+
+## A New Current in My Career
+
+But my journey didn't stop there. In my free time, I've had the incredible opportunity to work remotely with several innovative Canadian startups. It was like stepping into a different world.
+
+Working alongside expert data engineers, developers, designers, DevOps engineers, and product managers, I got a front-row seat to how agile companies operate. One memorable project was developing a mobile app for an oceanography startup, where technology and oceanography merged to create something truly exciting
+
+These experiences have been more than just side projects. They've been a bridge, connecting my world of water engineering with the fast-paced realm of technology startups.
+
+Here's the thing: while the IT world races ahead, creating amazing tools that simplify complex tasks, the water industry (and civil engineering in general) often lags behind. We're still using software that was groundbreaking decades ago, created by brilliant minds of the past. But in this age of Web, AI, and IoT, we need a revolution.
+
+I dream of a future where cutting-edge technologies tackle our most complex water challenges. Where machine learning predicts flood patterns, where IoT sensors monitor water quality in real-time, where virtual reality helps us design more efficient water systems.
+This is why I've become a Hydroinformatics Engineer.
 
 ## What is Hydroinformatics?
 
-Hydroinformatics is a specialized field that merges hydrology, hydraulics, and computer science. It's all about using advanced computational tools and data analysis to solve complex water-related problems. Imagine being able to predict floods, optimize water distribution, or simulate river flows—all through the power of numerical models and algorithms. This field not only enhances our understanding of water systems but also drives innovative solutions for sustainable water management.
+Hydroinformatics is a cutting-edge field that harnesses the power of computer science to tackle complex water-related challenges. Imagine being able to predict floods with pinpoint accuracy, optimize water distribution across entire cities, or simulate the intricate flow patterns of rivers - all using advanced computer models. This is the world I inhabit every day, and it's as exciting as it sounds.
 
-In my work, I utilize a range of tools and software like R, Python, HEC-HMS, HEC-RAS, and SWMM. Each project is a new challenge, a new puzzle to solve, and I love every moment of it.
+At its core, hydroinformatics is about turning vast amounts of water data into actionable insights. We use sophisticated algorithms to process information from various sources - satellite imagery, ground sensors, historical records, and more - to create comprehensive models of water systems. In my work, I employ a diverse toolkit: Python, R, MATLAB, GIS tools, and other special software.
 
-## The Digital Garden
+But hydroinformatics isn't just about the technology - it's about impact. Our work has the potential to save lives by improving flood warnings, conserve precious water resources through better management, and help communities adapt to the impacts of climate change on their water systems.
 
-Now, you might be wondering, what is a Digital Garden? Well, it's a concept that beautifully aligns with my journey. A digital garden is a space on the internet where ideas, projects, and knowledge grow organically over time. Unlike a traditional blog, which is linear and chronological, a digital garden is more like a collection of interconnected notes and resources. It's a place where I can share my insights, experiments, and learnings in a way that's accessible and ever-evolving.
+As we face growing challenges like water scarcity and extreme weather events, the role of hydroinformatics becomes increasingly crucial. We're at the forefront of developing solutions that will shape the future of water management globally.
 
-In my digital garden, you'll find a variety of topics ranging from hydroinformatics and AI applications in water management to personal projects and coding tips. It's a reflection of my continuous learning process and my desire to contribute to the community.
+The field is rapidly evolving, with emerging technologies like artificial intelligence, Internet of Things (IoT) sensors, and big data analytics opening up new possibilities. Imagine AI-powered systems that can automatically adjust water distribution based on real-time demand, or a network of IoT sensors providing instant alerts about water quality issues.
 
-## At the end
+This is why I'm so excited to be part of this field. Every day, Each project presents a unique set of challenges, like a complex puzzle waiting to be solved. The future of water management is digital, and as a hydroinformatics engineer, I'm thrilled to be part of it.
 
-Thank you for stopping by my corner of the internet. Feel free to explore, connect, and grow with me. If you share my passion for water, technology, or just love a good engineering challenge, let's connect and collaborate!
+## My Digital Garden
+
+My website is what I call a Digital Garden. Think of it as a place where ideas grow, like plants in a real garden. Here, you'll find topics about water management, computer applications, and coding tips. It shows what I'm learning and how I want to help others learn too.
+
+The best part? Anyone can help improve it. You can find all the articles and code on my GitHub page. I welcome ideas to make it better - after all, the best gardens grow with help from many people.
+
+## Looking Forward
+
+From my early days of coding until now, I've been learning and growing all the time. I'm always excited to meet people who are interested in water management, technology, or both. Feel free to look around in my digital garden, get in touch, and learn with me.
