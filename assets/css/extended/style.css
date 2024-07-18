@@ -47,7 +47,7 @@ a[title="Hire Me"] {
 }
 
 @media (max-width: 768px) {
-  img {
+  .home-info img {
     display: none;
   }
 }
