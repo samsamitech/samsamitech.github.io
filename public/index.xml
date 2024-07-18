@@ -6,10 +6,10 @@
     <description>Recent content on HydroHamed</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jul 2024 02:19:08 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 23:23:36 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>What is Hydroinformatics? Bridging Water Science and Technology</title>
+      <title>What is Hydroinformatics?</title>
       <link>http://localhost:1313/articles/hydroinformatics/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/articles/hydroinformatics/</guid>
@@ -23,34 +23,33 @@
       <description>This roadmap outlines the essential study topics and skills needed to work as a hydroinformatics engineer.</description>
     </item>
     <item>
-      <title>Get in Touch</title>
+      <title>Let&#39;s Connect</title>
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
       <description>Hello there! Whether you have a question, a project idea, or just want to chat about the fascinating world of hydroinformatics, I&amp;rsquo;m all ears.
-Reach Me Here Feel free to drop me a message using any of the contact methods below. I promise to get back to you as soon as I can.
-Email: 📧 hydrohamed@gmail.com
-LinkedIn: 💼 Connect with me on LinkedIn
-Visit My Digital Garden Curious about what I&amp;rsquo;m currently working on?</description>
+Reach Me Here 📧 Email: hydrohamed@gmail.com
+💼 LinkedIn: Connect with me on LinkedIn
+🐙 Github: Check out my GitHub
+✖️ X: Follow me on X</description>
     </item>
     <item>
       <title>My Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
-      <description>Welcome to my projects page! Here you&amp;rsquo;ll find different projects I&amp;rsquo;ve worked on. They mix my love for water science, computer programming, and free software.
+      <description>Welcome to my projects page! Here you&amp;rsquo;ll find some of the projects I&amp;rsquo;ve built. They blend my passion for water, coding, and open-source development.
 HydroHamed A Hub for Hydroinformatics Enthusiasts
-HydroHamed is my online space for sharing knowledge about water science and technology. It&amp;rsquo;s for engineers, researchers, scientists, and anyone interested in this field. You can find helpful information, guides, and discussions here.
-🔗 Explore HydroHamed
-Flood Events Database A Citizen Science Project for Gathering Flood Events Data</description>
+I&amp;rsquo;ve always felt the need for a comprehensive portal for hydroinformatics. Combining this with my desire for a personal website that serves as a portfolio, blog, and digital garden, I created HydroHamed. This online space is dedicated to sharing knowledge about hydroinformatics.</description>
     </item>
     <item>
       <title>My Story</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Water has always been a big part of my life, but it was computer programming that truly set me on my path. I&amp;rsquo;m Hamed Samsami, a Hydroinformatics Engineer from Iran, now living in beautiful Norway. My story is all about merging two passions: water and technology.
-How It All Started As a teenager, I spent countless late nights at my computer. While my friends were playing video games and chatting on Yahoo, I was learning to write code.</description>
+      <description>I&amp;rsquo;m Hamed Samsami, a Hydroinformatics Engineer from Iran, now living in beautiful Norway. My story is about merging two passions: water and technology.
+Teenage Coder: The Early Days As a teenager, I spent countless late nights at my computer. While my friends were playing video games and chatting on Yahoo, I was learning to write code and participating in programming competitions.
+My interest in computer science never waned. Even while studying civil engineering, I used my free time to build websites for friends, local schools, and various small projects.</description>
     </item>
   </channel>
 </rss>

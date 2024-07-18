@@ -1,5 +1,5 @@
 ---
-title: "What is Hydroinformatics? Bridging Water Science and Technology"
+title: "What is Hydroinformatics?"
 summary: This article delves into the multifaceted world of hydroinformatics, exploring its history, applications, job market, and future prospects.
 author: ["Hamed Samsami"]
 date: 2024-07-13
@@ -10,6 +10,7 @@ tags:
     "Hydraulic",
     "Water",
     "Technology",
+    "Data",
     "AI",
     "IoT",
   ]
