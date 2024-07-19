@@ -2,60 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/articles/hydroinformatics/</loc>
+    <loc>https://hydrohamed.com/articles/hydroinformatics/</loc>
     <lastmod>2024-07-18T12:24:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/hydroinformatics-roadmap/</loc>
+    <loc>https://hydrohamed.com/articles/hydroinformatics-roadmap/</loc>
     <lastmod>2024-07-16T02:19:08+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/</loc>
+    <loc>https://hydrohamed.com/articles/</loc>
     <lastmod>2024-07-18T12:24:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/career-path/</loc>
+    <loc>https://hydrohamed.com/tags/career-path/</loc>
     <lastmod>2024-07-16T02:19:08+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://hydrohamed.com/</loc>
     <lastmod>2024-07-19T11:26:36+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hydroinformatics/</loc>
+    <loc>https://hydrohamed.com/tags/hydroinformatics/</loc>
     <lastmod>2024-07-18T12:24:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/roadmap/</loc>
+    <loc>https://hydrohamed.com/tags/roadmap/</loc>
     <lastmod>2024-07-16T02:19:08+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://hydrohamed.com/tags/</loc>
     <lastmod>2024-07-18T12:24:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
+    <loc>https://hydrohamed.com/tags/ai/</loc>
     <lastmod>2024-07-18T12:24:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/data/</loc>
+    <loc>https://hydrohamed.com/tags/data/</loc>
     <lastmod>2024-07-18T12:24:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hydraulic/</loc>
+    <loc>https://hydrohamed.com/tags/hydraulic/</loc>
     <lastmod>2024-07-18T12:24:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hydrology/</loc>
+    <loc>https://hydrohamed.com/tags/hydrology/</loc>
     <lastmod>2024-07-18T12:24:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/iot/</loc>
+    <loc>https://hydrohamed.com/tags/iot/</loc>
     <lastmod>2024-07-18T12:24:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/technology/</loc>
+    <loc>https://hydrohamed.com/tags/technology/</loc>
     <lastmod>2024-07-18T12:24:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/water/</loc>
+    <loc>https://hydrohamed.com/tags/water/</loc>
     <lastmod>2024-07-18T12:24:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://hydrohamed.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://hydrohamed.com/contact/</loc>
     <lastmod>2024-07-19T10:49:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://hydrohamed.com/projects/</loc>
     <lastmod>2024-07-19T11:26:36+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://hydrohamed.com/about/</loc>
     <lastmod>2024-07-19T10:49:44+02:00</lastmod>
   </url>
 </urlset>

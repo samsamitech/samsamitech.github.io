@@ -20,7 +20,7 @@ params:
     text: "HydroHamed"
     icon: "apple-touch-icon.png"
   description: "Discover HydroHamed, your go-to resource for all things hydroinformatics. Explore technical articles, in-depth tutorials, innovative projects, and the latest news in the field. Dive into the world of water data management and computational tools."
-  images: "assets/images/avatar.jpg"
+  images: ["assets/images/avatar.jpg"]
   keywords:
     [
       "hydroinformatics",
