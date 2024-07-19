@@ -12,7 +12,7 @@ I contributed to the development of the eOceans mobile app, a powerful tool for 
 
 The app has been featured in peer-reviewed scientific publications and has already informed international policies to protect endangered species and special marine areas.
 
-🔗 [eOceans App](https://eoceans.app/)
+🔗 [Visit eOceans's Website ](https://eoceans.app/)
 
 ## Flood Events Database
 
