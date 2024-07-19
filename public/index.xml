@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>HydroHamed | Hydroinformatics Hub</title>
-    <link>https://hydrohamed.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on HydroHamed | Hydroinformatics Hub</description>
     <image>
       <title>HydroHamed | Hydroinformatics Hub</title>
-      <url>https://hydrohamed.com/assets/images/avatar.jpg</url>
-      <link>https://hydrohamed.com/assets/images/avatar.jpg</link>
+      <url>http://localhost:1313/assets/images/avatar.jpg</url>
+      <link>http://localhost:1313/assets/images/avatar.jpg</link>
     </image>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Jul 2024 11:26:36 +0200</lastBuildDate>
-    <atom:link href="https://hydrohamed.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is Hydroinformatics?</title>
-      <link>https://hydrohamed.com/articles/hydroinformatics/</link>
+      <link>http://localhost:1313/articles/hydroinformatics/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://hydrohamed.com/articles/hydroinformatics/</guid>
+      <guid>http://localhost:1313/articles/hydroinformatics/</guid>
       <description>This article delves into the multifaceted world of hydroinformatics, exploring its history, applications, job market, and future prospects.</description>
     </item>
     <item>
       <title>Hydroinformatics Engineer Roadmap</title>
-      <link>https://hydrohamed.com/articles/hydroinformatics-roadmap/</link>
+      <link>http://localhost:1313/articles/hydroinformatics-roadmap/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://hydrohamed.com/articles/hydroinformatics-roadmap/</guid>
+      <guid>http://localhost:1313/articles/hydroinformatics-roadmap/</guid>
       <description>This roadmap outlines the essential study topics and skills needed to work as a hydroinformatics engineer.</description>
     </item>
     <item>
       <title>Let&#39;s Connect</title>
-      <link>https://hydrohamed.com/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hydrohamed.com/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>Hello there! Whether you have a question, a project idea, or just want to chat about the fascinating world of hydroinformatics, I&amp;rsquo;m all ears.
 Reach Me Here 📧 Email: hydrohamed@gmail.com
 💼 Connect with me on LinkedIn
@@ -40,18 +40,18 @@ Reach Me Here 📧 Email: hydrohamed@gmail.com
     </item>
     <item>
       <title>My Projects</title>
-      <link>https://hydrohamed.com/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hydrohamed.com/projects/</guid>
+      <guid>http://localhost:1313/projects/</guid>
       <description>Welcome to my projects page! Here you&amp;rsquo;ll find some of the projects I&amp;rsquo;ve built and contributed to. They blend my passion for water, coding, and open-source development.
 eOceans Mobile App Empowering Citizen Scientists and Researchers to Study Oceans
 I contributed to the development of the eOceans mobile app, a powerful tool for citizen scientists, researchers, and teams exploring and studying the world&amp;rsquo;s oceans. This app enables users to capture valuable data about ocean environments in real-time, contributing to faster and more collaborative discoveries.</description>
     </item>
     <item>
       <title>My Story</title>
-      <link>https://hydrohamed.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hydrohamed.com/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>I&amp;rsquo;m Hamed Samsami, a Hydroinformatics Engineer from Iran, now living in beautiful Norway. My story is about merging two passions: water and technology.
 Teenage Coder: The Early Days As a teenager, I spent countless late nights at my computer. While my friends were playing video games and chatting on Yahoo, I was learning to write code and participating in programming competitions.
 My interest in computer science never waned. Even while studying civil engineering, I used my free time to build websites for friends, local schools, and various small projects.</description>

@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on HydroHamed | Hydroinformatics Hub</title>
-    <link>https://hydrohamed.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on HydroHamed | Hydroinformatics Hub</description>
     <image>
       <title>HydroHamed | Hydroinformatics Hub</title>
-      <url>https://hydrohamed.com/assets/images/avatar.jpg</url>
-      <link>https://hydrohamed.com/assets/images/avatar.jpg</link>
+      <url>http://localhost:1313/assets/images/avatar.jpg</url>
+      <link>http://localhost:1313/assets/images/avatar.jpg</link>
     </image>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Jul 2024 12:24:29 +0200</lastBuildDate>
-    <atom:link href="https://hydrohamed.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Career Path</title>
-      <link>https://hydrohamed.com/tags/career-path/</link>
+      <link>http://localhost:1313/tags/career-path/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://hydrohamed.com/tags/career-path/</guid>
+      <guid>http://localhost:1313/tags/career-path/</guid>
       <description></description>
     </item>
     <item>
       <title>HydroInformatics</title>
-      <link>https://hydrohamed.com/tags/hydroinformatics/</link>
+      <link>http://localhost:1313/tags/hydroinformatics/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://hydrohamed.com/tags/hydroinformatics/</guid>
+      <guid>http://localhost:1313/tags/hydroinformatics/</guid>
       <description></description>
     </item>
     <item>
       <title>Roadmap</title>
-      <link>https://hydrohamed.com/tags/roadmap/</link>
+      <link>http://localhost:1313/tags/roadmap/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://hydrohamed.com/tags/roadmap/</guid>
+      <guid>http://localhost:1313/tags/roadmap/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>https://hydrohamed.com/tags/ai/</link>
+      <link>http://localhost:1313/tags/ai/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://hydrohamed.com/tags/ai/</guid>
+      <guid>http://localhost:1313/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Data</title>
-      <link>https://hydrohamed.com/tags/data/</link>
+      <link>http://localhost:1313/tags/data/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://hydrohamed.com/tags/data/</guid>
+      <guid>http://localhost:1313/tags/data/</guid>
       <description></description>
     </item>
     <item>
       <title>Hydraulic</title>
-      <link>https://hydrohamed.com/tags/hydraulic/</link>
+      <link>http://localhost:1313/tags/hydraulic/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://hydrohamed.com/tags/hydraulic/</guid>
+      <guid>http://localhost:1313/tags/hydraulic/</guid>
       <description></description>
     </item>
     <item>
       <title>Hydrology</title>
-      <link>https://hydrohamed.com/tags/hydrology/</link>
+      <link>http://localhost:1313/tags/hydrology/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://hydrohamed.com/tags/hydrology/</guid>
+      <guid>http://localhost:1313/tags/hydrology/</guid>
       <description></description>
     </item>
     <item>
       <title>IoT</title>
-      <link>https://hydrohamed.com/tags/iot/</link>
+      <link>http://localhost:1313/tags/iot/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://hydrohamed.com/tags/iot/</guid>
+      <guid>http://localhost:1313/tags/iot/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>https://hydrohamed.com/tags/technology/</link>
+      <link>http://localhost:1313/tags/technology/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://hydrohamed.com/tags/technology/</guid>
+      <guid>http://localhost:1313/tags/technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Water</title>
-      <link>https://hydrohamed.com/tags/water/</link>
+      <link>http://localhost:1313/tags/water/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://hydrohamed.com/tags/water/</guid>
+      <guid>http://localhost:1313/tags/water/</guid>
       <description></description>
     </item>
   </channel>
