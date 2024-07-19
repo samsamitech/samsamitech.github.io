@@ -20,8 +20,10 @@ params:
     Title: Hamed Samsami
     Subtitle: Hydroinformatics Engineer
     Content: Welcome to my digital garden! 🌱 As a hydroinformatics engineer, I integrate water science and technology to enhance understanding and management of water systems. Here, I share my knowledge, learning, projects, and experiences.
-    imageUrl: "images/avatar.png"
+    imageUrl: "images/avatar.jpg"
     imageTitle: "Hamed Samsami"
+    imageWidth: 200
+    imageHeight: 200
     buttons:
       - name: Flood Events Database
         url: https://fed.hydrohamed.com/

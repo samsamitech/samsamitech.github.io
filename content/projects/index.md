@@ -1,17 +1,18 @@
 ---
 title: "My Projects"
-Author: "Hamed Samsami"
 ---
 
-Welcome to my projects page! Here you'll find some of the projects I've built. They blend my passion for water, coding, and open-source development.
+Welcome to my projects page! Here you'll find some of the projects I've built and contributed to. They blend my passion for water, coding, and open-source development.
 
-## HydroHamed
+## eOceans Mobile App
 
-**A Hub for Hydroinformatics Enthusiasts**
+**Empowering Citizen Scientists and Researchers to Study Oceans**
 
-I've always felt the need for a comprehensive portal for hydroinformatics. Combining this with my desire for a personal website that serves as a portfolio, blog, and digital garden, I created HydroHamed. This online space is dedicated to sharing knowledge about hydroinformatics. It's designed for engineers, scientists, researchers, and anyone interested in this field. Best of all, it's open-source! You can find all the source code for the website on GitHub and suggest improvements for articles and the overall website.
+I contributed to the development of the eOceans mobile app, a powerful tool for citizen scientists, researchers, and teams exploring and studying the world's oceans. This app enables users to capture valuable data about ocean environments in real-time, contributing to faster and more collaborative discoveries.
 
-🔗 [Explore HydroHamed](https://www.hydrohamed.com)
+The app has been featured in peer-reviewed scientific publications and has already informed international policies to protect endangered species and special marine areas.
+
+🔗 [eOceans App](https://eoceans.app/)
 
 ## Flood Events Database
 
@@ -36,3 +37,11 @@ Libredraft is a free, open-source, and lightweight tool for designing 2D CAD pro
 While this project isn't related to water or engineering, I developed it to learn the Go programming language. Meet Hiro, a fast, lightweight download manager and accelerator that enhances your downloading experience.
 
 🔗 [Download Hiro](https://github.com/hydrohamed/hiro)
+
+## And Finally: HydroHamed
+
+**A Hub for Hydroinformatics Enthusiasts**
+
+I've always felt the need for a comprehensive portal for hydroinformatics. Combining this with my desire for a personal website that serves as a portfolio, blog, and digital garden, I created HydroHamed. This online space is dedicated to sharing knowledge about hydroinformatics. It's designed for engineers, scientists, researchers, and anyone interested in this field. Best of all, it's open-source! You can find all the source code for the website on GitHub and suggest improvements for articles and the overall website.
+
+🔗 [Explore HydroHamed](https://www.hydrohamed.com)

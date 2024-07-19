@@ -66,3 +66,13 @@ My website is what I call a Digital Garden. Think of it as a place where ideas g
 Anyone can contribute to its growth. You can find all the articles and code of my website on GitHub. I welcome ideas to make it better - after all, the best gardens flourish with help from many people.
 
 From my early days of coding until now, I've been learning and growing continuously. I'm always excited to meet people who are interested in water management, technology, or both. Feel free to explore my digital garden, get in touch, and learn with me.
+
+## Reach Me Here
+
+📧 Email: hydrohamed@gmail.com
+
+💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/hydrohamed/)
+
+🐙 [Check out my GitHub](https://www.github.com/hydrohamed/)
+
+✖️ [Follow me on X](https://www.x.com/hydrohamed/)
