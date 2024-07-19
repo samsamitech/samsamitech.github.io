@@ -7,7 +7,7 @@
                 {{ .Content | markdownify }}
             </div>
         </div>
-        <img draggable="false" src="{{ .imageUrl }}" />
+        <img draggable="false" src="{{ .imageUrl }}" alt="{{ .imageTitle }}"/>
     </header>
     <div class="entry-footer">
         {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
