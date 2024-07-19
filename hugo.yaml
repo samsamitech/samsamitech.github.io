@@ -1,5 +1,5 @@
-baseURL: https://www.hydrohamed.com/
-title: HydroHamed
+baseURL: https://hydrohamed.com/
+title: HydroHamed | Hydroinformatics Hub
 languageCode: en-us
 paginate: 10
 theme: ["PaperMod"]
@@ -16,10 +16,27 @@ googleAnalytics: G-NVRBBK4BQP
 mainsections: ["articles", "notes"]
 
 params:
+  label:
+    text: "HydroHamed"
+    icon: "apple-touch-icon.png"
+  description: "Discover HydroHamed, your go-to resource for all things hydroinformatics. Explore technical articles, in-depth tutorials, innovative projects, and the latest news in the field. Dive into the world of water data management and computational tools."
+  images: "assets/images/avatar.jpg"
+  keywords:
+    [
+      "hydroinformatics",
+      "hydroinformatics engineer",
+      "hydroinformatics developer",
+      "hydrology",
+      "hydraulics",
+      "water",
+      "data science",
+      "machine learning",
+    ]
+  author: Hamed Samsami
   homeInfoParams:
-    Title: Hamed Samsami
-    Subtitle: Hydroinformatics Engineer
-    Content: Welcome to my digital garden! 🌱 As a hydroinformatics engineer, I integrate water science and technology to enhance understanding and management of water systems. Here, I share my knowledge, learning, projects, and experiences.
+    title: Hamed Samsami
+    subtitle: Hydroinformatics Engineer
+    content: Welcome to my digital garden! 🌱 As a hydroinformatics engineer, I integrate water science and technology to enhance understanding and management of water systems. Here, I share my knowledge, learning, projects, and experiences.
     imageUrl: "images/avatar.jpg"
     imageTitle: "Hamed Samsami"
     imageWidth: 200

@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Roadmap on HydroHamed</title>
+    <title>Roadmap on HydroHamed | Hydroinformatics Hub</title>
     <link>http://localhost:1313/tags/roadmap/</link>
-    <description>Recent content in Roadmap on HydroHamed</description>
+    <description>Recent content in Roadmap on HydroHamed | Hydroinformatics Hub</description>
+    <image>
+      <title>HydroHamed | Hydroinformatics Hub</title>
+      <url>http://localhost:1313/97</url>
+      <link>http://localhost:1313/97</link>
+    </image>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Jul 2024 02:19:08 +0200</lastBuildDate>
