@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Roadmap on HydroHamed | Hydroinformatics Hub</title>
-    <link>http://localhost:1313/tags/roadmap/</link>
+    <link>https://hydrohamed.com/tags/roadmap/</link>
     <description>Recent content in Roadmap on HydroHamed | Hydroinformatics Hub</description>
     <image>
       <title>HydroHamed | Hydroinformatics Hub</title>
-      <url>http://localhost:1313/assets/images/avatar.jpg</url>
-      <link>http://localhost:1313/assets/images/avatar.jpg</link>
+      <url>https://hydrohamed.com/assets/images/avatar.jpg</url>
+      <link>https://hydrohamed.com/assets/images/avatar.jpg</link>
     </image>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Jul 2024 02:19:08 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/roadmap/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hydrohamed.com/tags/roadmap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hydroinformatics Engineer Roadmap</title>
-      <link>http://localhost:1313/articles/hydroinformatics-roadmap/</link>
+      <link>https://hydrohamed.com/articles/hydroinformatics-roadmap/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articles/hydroinformatics-roadmap/</guid>
+      <guid>https://hydrohamed.com/articles/hydroinformatics-roadmap/</guid>
       <description>This roadmap outlines the essential study topics and skills needed to work as a hydroinformatics engineer.</description>
     </item>
   </channel>
