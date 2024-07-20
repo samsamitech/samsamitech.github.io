@@ -20,7 +20,7 @@ params:
     text: "HydroHamed"
     icon: "apple-touch-icon.png"
   description: "Discover HydroHamed, your go-to resource for all things hydroinformatics. Explore technical articles, in-depth tutorials, cool projects, and the latest news"
-  images: ["assets/images/avatar.jpg"]
+  images: ["images/hamed.jpg"]
   keywords:
     [
       "hydroinformatics",
@@ -36,7 +36,7 @@ params:
   homeInfoParams:
     title: Hamed Samsami Hydroinformatics Engineer
     content: Welcome to my digital garden! 🌱 As a hydroinformatics engineer, I integrate water science and technology to enhance understanding and management of water systems. Here, I share my knowledge, learning, projects, and experiences.
-    imageUrl: "images/avatar.jpg"
+    imageUrl: "images/hamed.jpg"
     imageTitle: "Hamed Samsami"
     imageWidth: 200
     imageHeight: 200
