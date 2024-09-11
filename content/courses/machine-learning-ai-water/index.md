@@ -15,7 +15,7 @@ weight: 10
 
 Early-bird price: <span style="color:red">$350</span> (regular price: <span style="text-decoration-line: line-through;">$500</span>)</p>
 
-<a  href="https://hydroinformatics.teachable.com/purchase?product_id=5802223" style="background-color:#0cc0df;color:#fff;margin-top:20px;padding:10px;border-radius:10px;font-size:22px; font-weight:bold">Enroll Today!</a>
+<a  href="https://hydroinformatics.teachable.com/purchase?product_id=5813414" style="background-color:#0cc0df;color:#fff;margin-top:20px;padding:10px;border-radius:10px;font-size:22px; font-weight:bold">Enroll Today!</a>
 </html>
 
 ## Unlock the Power of Machine Learning in Water Science
@@ -99,5 +99,5 @@ Ready to get started? Join now and start applying machine learning to water scie
 
 Early-bird price: <span style="color:red">$350</span> (regular price: <span style="text-decoration-line: line-through;">$500</span>)
 
-<a  href="https://hydroinformatics.teachable.com/purchase?product_id=5802223" style="background-color:#0cc0df;color:#fff;margin-top:20px;padding:10px;border-radius:10px;font-size:22px; font-weight:bold">Enroll Today!</a>
+<a  href="https://hydroinformatics.teachable.com/purchase?product_id=5813414" style="background-color:#0cc0df;color:#fff;margin-top:20px;padding:10px;border-radius:10px;font-size:22px; font-weight:bold">Enroll Today!</a>
 </html>
