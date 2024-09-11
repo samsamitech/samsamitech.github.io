@@ -14,7 +14,7 @@ tags:
     "AI",
     "IoT",
   ]
-weight: 1
+weight: 20
 ---
 
 In an era where water management and sustainability are critical to addressing global challenges, hydroinformatics emerges as a key discipline. This article delves into the multifaceted world of hydroinformatics, exploring its definition, history, applications, job market, and future prospects.

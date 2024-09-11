@@ -4,7 +4,7 @@ summary: This roadmap outlines the essential study topics and skills needed to w
 author: ["Hamed Samsami"]
 date: 2024-07-15
 tags: ["HydroInformatics", "Roadmap", "Career Path"]
-weight: 2
+weight: 30
 ---
 
 ## Introduction

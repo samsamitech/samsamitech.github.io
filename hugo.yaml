@@ -11,9 +11,14 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 googleAnalytics: G-NVRBBK4BQP
 
-mainsections: ["articles", "notes"]
+mainsections: ["courses", "articles"]
 
 params:
   label:
@@ -32,7 +37,6 @@ params:
       "data science",
       "machine learning",
     ]
-  author: Hamed Samsami
   homeInfoParams:
     title: Hamed Samsami Hydroinformatics Engineer
     content: Welcome to my digital garden! 🌱 As a hydroinformatics engineer, I integrate water science and technology to enhance understanding and management of water systems. Here, I share my knowledge, learning, projects, and experiences.
@@ -62,6 +66,10 @@ menu:
       name: Articles
       url: /articles/
       weight: 10
+    - identifier: courses
+      name: Courses
+      url: /courses/
+      weight: 15
     - identifier: projects
       name: My Projects
       url: /projects/
