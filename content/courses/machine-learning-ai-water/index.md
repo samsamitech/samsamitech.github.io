@@ -47,6 +47,9 @@ Whether you’re a beginner in Python or AI, this course will teach you everythi
 ### **🔧 Hands-On Learning**  
 Work with real-world water datasets and solve practical problems.
 
+### **❓ Ongoing Support**
+Get personalized answers to your questions throughout the course, ensuring you have the support you need to succeed.
+
 ### **🌟 Career Boost**  
 Gain a competitive edge in your field by mastering cutting-edge AI techniques for water resource management.
 
