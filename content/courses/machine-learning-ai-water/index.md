@@ -19,16 +19,16 @@ Master machine learning and AI from scratch—even if you're new to Python. This
   <p style="font-size:18px;margin-bottom:20px;"><b>💻Type:</b> Remote - Online</p>
   <!-- Special Offer Section -->
   <div style="background-color:#e0f8e0;padding:15px;border-radius:10px;margin-bottom:20px;">
-    <p style="font-size:16px"><b>🎉Special Offer:</b> Enroll now to get <span style="color:#28a745;">30% OFF</span> for 3 days only! </p>
+    <p style="font-size:16px"><b>🎉Special Offer:</b> Enroll now to get <span style="color:#28a745;">20% OFF</span></p>
     <p style="font-size:18px;">
-      <b>💸Early-bird price:</b> <span style="color:#e63946;font-weight:bold;font-size:22px;">$350</span> 
+      <b>💸Early-bird price:</b> <span style="color:#e63946;font-weight:bold;font-size:22px;">$400</span> 
       <span style="font-size:16px;color:#6c757d;">(regular price: <span style="text-decoration:line-through;">$500</span>)</span>
     </p>
     <!-- Money-Back Guarantee -->
     <p style="font-size:16px;margin-bottom:20px;"><b>💰Money-Back Guarantee:</b> Full refund within 7 days of course start date.</p>
   </div>
   <!-- Enroll Button -->
-  <a href="https://hydroinformatics.teachable.com/purchase?product_id=5813414" 
+  <a href="https://hydroinformatics.teachable.com/purchase?product_id=5824586" 
      style="display:block;background-color:#0cc0df;color:#fff;text-align:center;padding:15px;border-radius:10px;font-size:22px;font-weight:bold;text-decoration:none; max-width:250px">
      Enroll Today!
   </a>
@@ -135,12 +135,12 @@ AI-based predictive maintenance solutions analyze data from sensors installed on
 
 Don’t miss this chance to lead the future of water science. Start learning machine learning today and apply AI to the challenges of tomorrow.
 
-> **Special Offer**: 30% OFF for the next 3 days.  
-> **Early-bird Price**: $350 (Regular Price: $500)  
+> **Special Offer**: 20% OFF.  
+> **Early-bird Price**: $400 (Regular Price: $500)  
 > **Money-Back Guarantee**: Full refund within 7 days of the course start date.
 
 <html>
-  <a href="https://hydroinformatics.teachable.com/purchase?product_id=5813414" 
+  <a href="https://hydroinformatics.teachable.com/purchase?product_id=5824586" 
      style="display:block;background-color:#0cc0df;color:#fff;text-align:center;padding:10px;border-radius:10px;font-size:18px;font-weight:bold;text-decoration:none; max-width:150px">
      Enroll Today!
   </a>
