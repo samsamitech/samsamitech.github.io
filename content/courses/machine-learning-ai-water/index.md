@@ -10,22 +10,21 @@ weight: 10
 ## Unlock AI’s Potential in Water Science
 ### Join the "Applied Machine Learning and AI for Water Scientists & Engineers" Course
 
-Master machine learning and AI from scratch—even if you're new to Python. This course is designed for water professionals who want to apply AI and data science to real-world challenges. Limited-time **20% off** early-bird offer!
+Master machine learning and AI from scratch—even if you're new to Python. This course is designed for water professionals who want to apply AI and data science to real-world challenges. Limited-time **20% off** introductory offer!
 
 <html>
 <div style="background-color:#f9f9f9;padding:20px;border-radius:15px;border:solid #ccc 1px;width:100%;font-family:sans-serif;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1);">
   <!-- Start Date and Type Information -->
-  <p style="font-size:18px;margin-bottom:10px;"><b>📅 Start Date:</b> September 23, 2024</p>
   <p style="font-size:18px;margin-bottom:20px;"><b>💻Type:</b> Remote - Online</p>
   <!-- Special Offer Section -->
   <div style="background-color:#e0f8e0;padding:15px;border-radius:10px;margin-bottom:20px;">
-    <p style="font-size:16px"><b>🎉Special Offer:</b> Enroll now to get <span style="color:#28a745;">20% OFF</span></p>
+    <p style="font-size:16px"><b>🎉Introductory Offer:</b> Enroll now to get <span style="color:#28a745;">20% OFF</span></p>
     <p style="font-size:18px;">
-      <b>💸Early-bird price:</b> <span style="color:#e63946;font-weight:bold;font-size:22px;">$399</span> 
+      <b>💸price:</b> <span style="color:#e63946;font-weight:bold;font-size:22px;">$399</span> 
       <span style="font-size:16px;color:#6c757d;">(regular price: <span style="text-decoration:line-through;">$500</span>)</span>
     </p>
     <!-- Money-Back Guarantee -->
-    <p style="font-size:16px;margin-bottom:20px;"><b>💰Money-Back Guarantee:</b> Full refund within 7 days of course start date.</p>
+    <p style="font-size:16px;margin-bottom:20px;"><b>💰Money-Back Guarantee:</b> Full refund within 7 days.</p>
   </div>
   <!-- Enroll Button -->
   <a href="https://academy.hydrohamed.com" 
@@ -135,9 +134,9 @@ AI-based predictive maintenance solutions analyze data from sensors installed on
 
 Don’t miss this chance to lead the future of water science. Start learning machine learning today and apply AI to the challenges of tomorrow.
 
-> **Special Offer**: 20% OFF.  
-> **Early-bird Price**: $399 (Regular Price: $500)  
-> **Money-Back Guarantee**: Full refund within 7 days of the course start date.
+> **Introductory Offer**: 20% OFF.  
+> **Price**: $399 (Regular Price: $500)  
+> **Money-Back Guarantee**: Full refund within 7 days.
 
 <html>
   <a href="https://academy.hydrohamed.com" 
