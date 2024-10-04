@@ -27,7 +27,7 @@ Master machine learning and AI from scratch, even if you're new to Python. This 
                 <b style="font-size:18px;">💸Student price: </b><span style="color:#28a745;font-weight:bold;font-size:22px;">$249</span>
             </p>
             <p style="font-size:16px;">⌛Limited time 50% off for students and recent graduates.</p>
-            <p><a href="https://forms.gle/uUSjGzD7Nrng9nG19" style="color:#28a745;text-decoration:none!important">👩‍🎓Request Your Student Discount</a></p>
+            <p><a href="https://forms.gle/uUSjGzD7Nrng9nG19" style="color:#28a745;text-decoration:none!important">👩‍🎓Request your student discount</a></p>
             <!-- Money-Back Guarantee -->
             <p style="font-size:16px;margin-bottom:20px;"><b>💰Money-Back Guarantee:</b> Full refund available within 7 days of registration.</p>
         </div>
@@ -156,7 +156,7 @@ Don’t miss this chance to lead the future of water science. Start learning mac
                 <b style="font-size:18px;">💸Student price: </b><span style="color:#28a745;font-weight:bold;font-size:22px;">$249</span>
             </p>
             <p style="font-size:16px;">⌛Limited time 50% off for students and recent graduates.</p>
-            <p><a href="https://forms.gle/uUSjGzD7Nrng9nG19" style="color:#28a745;text-decoration:none!important">👩‍🎓Request Your Student Discount</a></p>
+            <p><a href="https://forms.gle/uUSjGzD7Nrng9nG19" style="color:#28a745;text-decoration:none!important">👩‍🎓Request your student discount</a></p>
             <!-- Money-Back Guarantee -->
             <p style="font-size:16px;margin-bottom:20px;"><b>💰Money-Back Guarantee:</b> Full refund available within 7 days of registration.</p>
         </div>
