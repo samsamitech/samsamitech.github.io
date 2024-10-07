@@ -8,7 +8,7 @@ tags: ["Machine Learning", "AI", "Water", "course", "Water Scientist", "Water En
 weight: 10
 ---
 ## Unlock AI’s Potential in Water Science
-### Limited-time **50% off** for students!
+<!-- ### Limited-time **50% off** for students! -->
 
 Master machine learning and AI from scratch, even if you're new to Python. This course is designed for water professionals and students who want to apply AI and data science to real-world water challenges.
 
@@ -20,14 +20,14 @@ Master machine learning and AI from scratch, even if you're new to Python. This 
         <div style="background-color:#e0f8e0;padding:15px;border-radius:10px;margin-bottom:20px;">
             <!-- <p style="font-size:16px"><b>🎉Student Discount:</b> register now to save <span style="color:#28a745;">50%</span>! Students and recent graduates pay only $249 instead of $499.</p> -->
             <p>
-                <b style="font-size:18px;">🏷️Regular price: </b><span style="color:#e63946;font-weight:bold;font-size:22px;">$499</span>
+                <b style="font-size:18px;">🏷️Price: </b><span style="color:#28a745;font-weight:bold;font-size:22px;">$499</span>
                 <!-- <span style="font-size:16px;color:#6c757d;">(regular price: <span style="text-decoration:line-through;">$500</span>)</span> -->
             </p>
-            <p>
+            <!-- <p>
                 <b style="font-size:18px;">💸Student price: </b><span style="color:#28a745;font-weight:bold;font-size:22px;">$249</span>
             </p>
             <p style="font-size:16px;">⌛Limited time 50% off for students and recent graduates.</p>
-            <p><a href="https://forms.gle/uUSjGzD7Nrng9nG19" style="color:#28a745;text-decoration:none!important">👩‍🎓Request your student discount</a></p>
+            <p><a href="https://forms.gle/uUSjGzD7Nrng9nG19" style="color:#28a745;text-decoration:none!important">👩‍🎓Request your student discount</a></p> -->
             <!-- Money-Back Guarantee -->
             <p style="font-size:16px;margin-bottom:20px;"><b>💰Money-Back Guarantee:</b> Full refund available within 7 days of registration.</p>
         </div>
@@ -149,14 +149,14 @@ Don’t miss this chance to lead the future of water science. Start learning mac
         <div style="background-color:#e0f8e0;padding:15px;border-radius:10px;margin-bottom:20px;">
             <!-- <p style="font-size:16px"><b>🎉Student Discount:</b> register now to save <span style="color:#28a745;">50%</span>! Students and recent graduates pay only $249 instead of $499.</p> -->
             <p>
-                <b style="font-size:18px;">🏷️Regular price: </b><span style="color:#e63946;font-weight:bold;font-size:22px;">$499</span>
+                <b style="font-size:18px;">🏷️Price: </b><span style="color:#28a745;font-weight:bold;font-size:22px;">$499</span>
                 <!-- <span style="font-size:16px;color:#6c757d;">(regular price: <span style="text-decoration:line-through;">$500</span>)</span> -->
             </p>
-            <p>
+            <!-- <p>
                 <b style="font-size:18px;">💸Student price: </b><span style="color:#28a745;font-weight:bold;font-size:22px;">$249</span>
             </p>
             <p style="font-size:16px;">⌛Limited time 50% off for students and recent graduates.</p>
-            <p><a href="https://forms.gle/uUSjGzD7Nrng9nG19" style="color:#28a745;text-decoration:none!important">👩‍🎓Request your student discount</a></p>
+            <p><a href="https://forms.gle/uUSjGzD7Nrng9nG19" style="color:#28a745;text-decoration:none!important">👩‍🎓Request your student discount</a></p> -->
             <!-- Money-Back Guarantee -->
             <p style="font-size:16px;margin-bottom:20px;"><b>💰Money-Back Guarantee:</b> Full refund available within 7 days of registration.</p>
         </div>
