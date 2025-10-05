@@ -6,6 +6,7 @@ cover:
   alt: "Applied Machine Learning for Water Scientists and Engineers"
 tags: ["Machine Learning", "AI", "Water", "course", "Water Scientist", "Water Engineer", "Python", "Data Science"]
 weight: 10
+draft: true
 ---
 ## Unlock AI’s Potential in Water Science
 <!-- ### Limited-time **50% off** for students! -->
