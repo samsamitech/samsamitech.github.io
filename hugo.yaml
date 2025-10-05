@@ -1,5 +1,5 @@
 baseURL: https://samsami.tech/
-title: HydroHamed | Hydroinformatics Hub
+title: Samsami.Tech | Hydroinformatics Hub
 languageCode: en-us
 theme: ["PaperMod"]
 
@@ -24,9 +24,9 @@ mainsections: ["courses", "articles"]
 
 params:
   label:
-    text: "HydroHamed"
+    text: "Samsami.Tech"
     icon: "apple-touch-icon.png"
-  description: "Discover HydroHamed, your go-to resource for all things hydroinformatics. Explore technical articles, in-depth tutorials, cool projects, and the latest news"
+  description: "Discover Samsami.Tech, your go-to resource for all things hydroinformatics. Explore technical articles, in-depth tutorials, cool projects, and the latest news"
   images: ["images/hamed.jpg"]
   keywords:
     [
@@ -52,13 +52,13 @@ params:
 
   socialIcons:
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/hydrohamed/"
+      url: "https://www.linkedin.com/in/samsamitech/"
     - name: "github"
-      url: "https://github.com/hydrohamed"
+      url: "https://github.com/samsamitech"
     - name: "x"
-      url: "https://x.com/hydrohamed"
+      url: "https://x.com/samsamitech"
     - name: "email"
-      url: "mailto:hydrohamed@gmail.com"
+      url: "mailto:samsamitech@gmail.com"
 
   ShowShareButtons: true
 

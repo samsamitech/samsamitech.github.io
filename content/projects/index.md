@@ -36,12 +36,12 @@ Libredraft is a free, open-source, and lightweight tool for designing 2D CAD pro
 
 While this project isn't related to water or engineering, I developed it to learn the Go programming language. Meet Hiro, a fast, lightweight download manager and accelerator that enhances your downloading experience.
 
-🔗 [Download Hiro](https://github.com/hydrohamed/hiro)
+🔗 [Download Hiro](https://github.com/samsamitech/hiro)
 
-## And Finally: HydroHamed
+## And Finally: Samsami.Tech
 
 **A Hub for Hydroinformatics Enthusiasts**
 
-I've always felt the need for a comprehensive portal for hydroinformatics. Combining this with my desire for a personal website that serves as a portfolio, blog, and digital garden, I created HydroHamed. This online space is dedicated to sharing knowledge about hydroinformatics. It's designed for engineers, scientists, researchers, and anyone interested in this field. Best of all, it's open-source! You can find all the source code for the website on GitHub and suggest improvements for articles and the overall website.
+I've always felt the need for a comprehensive portal for hydroinformatics. Combining this with my desire for a personal website that serves as a portfolio, blog, and digital garden, I created Samsami.Tech. This online space is dedicated to sharing knowledge about hydroinformatics. It's designed for engineers, scientists, researchers, and anyone interested in this field. Best of all, it's open-source! You can find all the source code for the website on GitHub and suggest improvements for articles and the overall website.
 
-🔗 [Explore HydroHamed](https://www.samsami.tech)
+🔗 [Explore Samsami.Tech](https://www.samsami.tech)

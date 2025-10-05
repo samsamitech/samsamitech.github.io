@@ -69,10 +69,10 @@ From my early days of coding until now, I've been learning and growing continuou
 
 ## Reach Me Here
 
-📧 Email: hydrohamed@gmail.com
+📧 Email: samsamitech@gmail.com
 
-💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/hydrohamed/)
+💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/samsamitech/)
 
-🐙 [Check out my GitHub](https://www.github.com/hydrohamed/)
+🐙 [Check out my GitHub](https://www.github.com/samsamitech/)
 
-✖️ [Follow me on X](https://www.x.com/hydrohamed/)
+✖️ [Follow me on X](https://www.x.com/samsamitech/)
