@@ -1,4 +1,4 @@
-baseURL: https://hydrohamed.com/
+baseURL: https://samsami.tech/
 title: HydroHamed | Hydroinformatics Hub
 languageCode: en-us
 paginate: 10
@@ -46,7 +46,7 @@ params:
     imageHeight: 200
     buttons:
       - name: Flood Events Database
-        url: https://fed.hydrohamed.com/
+        url: https://fed.samsami.tech/
 
   socialIcons:
     - name: "linkedin"
