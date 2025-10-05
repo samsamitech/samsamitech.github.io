@@ -1,8 +1,10 @@
 baseURL: https://samsami.tech/
 title: HydroHamed | Hydroinformatics Hub
 languageCode: en-us
-paginate: 10
 theme: ["PaperMod"]
+
+pagination:
+  pagerSize: 10
 
 enableRobotsTXT: true
 enableGitInfo: true
